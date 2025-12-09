@@ -1,27 +1,18 @@
-# FRC Robot Code Archive – Qubit Robotics (2021 & 2022)
+# FRC Robot Code Archive – Qubit Robotics 
 
-This repository contains **archived robot code from the 2021 and 2022 FRC seasons**, developed while I was a software member of **Qubit Robotics**.  
+This repository contains **archived robot code from the 2021 season**, developed while I was a software member of **Qubit Robotics**.  
 The original files were stored in our team drive/GitHub.  
 This repo includes cleaned and documented versions to showcase my contributions.
 
 ---
 
-## 🗂 Seasons Included
+
 ### **2021 Season**
 - Early shooter + intake prototypes  
 - Basic drivetrain control tests  
 - Initial sensor integration  
 - Pneumatics tests  
 - Control logic experiments  
-
-### **2022 Season**
-- Full competition-ready robot code  
-- Shooter speed modes (distance-based + manual)  
-- Ball detection with ColorSensorV3  
-- Automated intake & shooting cycles  
-- Finalized pneumatics control (intake & shooter solenoids)  
-- Hopper + belt subsystem logic  
-- TimedRobot structure and complete teleop behaviors  
 
 ---
 
@@ -51,7 +42,7 @@ This repo includes cleaned and documented versions to showcase my contributions.
 ---
 
 ## 📌 My Role & Contributions
-During 2021–2022 I worked on:
+I worked on:
 
 - Shooter + intake logic design  
 - Ball detection integration using the REV color sensor  
@@ -62,7 +53,7 @@ During 2021–2022 I worked on:
 - Writing, organizing and maintaining Python code  
 - Assisting with drivetrain controls and teleop logic  
 
-I was part of both seasons’ software subteam and actively contributed to robot testing and code deployment.
+I was part of software subteam and actively contributed to robot testing and code deployment.
 
 ---
 
@@ -71,10 +62,6 @@ I was part of both seasons’ software subteam and actively contributed to robot
 /2021/
    robot.py      # Prototype & early-season code
    README.md     # Notes about the 2021 season 
-
-/2022/
-   robot.py      # Competition-ready robot code
-   README.md     # Notes about 2022 season 
 
 README.md             # This main documentation file
 ```
