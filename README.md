@@ -66,18 +66,6 @@ I worked on:
 
 I was part of software subteam for 2021 & 2022 seasons and actively contributed to robot testing and code deployment.
 
----
-
-## 📁 Repository Structure
-```
-/2021/
-   robot.py      # Prototype & early-season code
-   README.md     # Notes about the 2021 season 
-
-README.md             # This main documentation file
-```
-
----
 
 ## ⚠️ Note
 This repository contains **archived, functional versions** of our robot code and is shared for documentation, learning, and portfolio purposes.  
