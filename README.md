@@ -1,6 +1,6 @@
 # FRC Robot Code Archive – Qubit Robotics 
 
-This repository contains **archived robot code from the 2021 season**, developed while I was a software member of **Qubit Robotics**.  
+This repository contains **archived robot code from the 2021 and 2022 seasons **, developed while I was a software member of **Qubit Robotics**.  
 The original files were stored in our team drive/GitHub.  
 This repo includes cleaned and documented versions to showcase my contributions.
 
@@ -12,7 +12,18 @@ This repo includes cleaned and documented versions to showcase my contributions.
 - Basic drivetrain control tests  
 - Initial sensor integration  
 - Pneumatics tests  
-- Control logic experiments  
+- Control logic experiments
+
+### **2022 Season**
+- Vision-based target alignment (PhotonVision)  
+- Mecanum drivetrain control improvements  
+- Shooter + conveyor (belt) synchronization  
+- Intake automation logic  
+- PID tuning for aiming and movement  
+- Early autonomous routine development  
+
+  
+
 
 ---
 
@@ -53,7 +64,7 @@ I worked on:
 - Writing, organizing and maintaining Python code  
 - Assisting with drivetrain controls and teleop logic  
 
-I was part of software subteam and actively contributed to robot testing and code deployment.
+I was part of software subteam for 2021 & 2022 seasons and actively contributed to robot testing and code deployment.
 
 ---
 
