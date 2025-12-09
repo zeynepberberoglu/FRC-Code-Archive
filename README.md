@@ -69,12 +69,12 @@ I was part of both seasons’ software subteam and actively contributed to robot
 ## 📁 Repository Structure
 ```
 /2021/
-   robot_2021.py      # Prototype & early-season code
-   README_2021.md     # Notes about the 2021 season (optional)
+   robot.py      # Prototype & early-season code
+   README.md     # Notes about the 2021 season 
 
 /2022/
-   robot_2022.py      # Competition-ready robot code
-   README_2022.md     # Notes about 2022 season (optional)
+   robot.py      # Competition-ready robot code
+   README.md     # Notes about 2022 season 
 
 README.md             # This main documentation file
 ```
@@ -83,5 +83,4 @@ README.md             # This main documentation file
 
 ## ⚠️ Note
 This repository contains **archived, functional versions** of our robot code and is shared for documentation, learning, and portfolio purposes.  
-It reflects real FRC-season development, including both prototype and finalized competition code.
 
